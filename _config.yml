@@ -1,7 +1,7 @@
 name: dloe
 favicon: null
-layout_spectrum: 0.94154
-typography_spectrum: 0.38456794200465083
+layout_spectrum: 0
+typography_spectrum: 0.60129
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#ffffff'
     - '#44deb1'
     - '#4fdbd2'
-  brandStrength: 0.375
+  brandStrength: 0.75
   lightness: 0
   saturation: 0.4375
-  rhythmicContrast: 0.44842361751943827
+  rhythmicContrast: 0.5
 purpose: []
