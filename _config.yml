@@ -1,6 +1,6 @@
 name: dloe
 favicon: null
-layout_spectrum: 0.305776838446036
+layout_spectrum: 0.94154
 typography_spectrum: 0.38456794200465083
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.2828183511737734
-  lightness: 0.82851945864968
-  saturation: 0.3775636269710958
+    - '#35e284'
+    - '#5dd7fb'
+    - '#ffffff'
+    - '#44deb1'
+    - '#4fdbd2'
+  brandStrength: 0.375
+  lightness: 0
+  saturation: 0.4375
   rhythmicContrast: 0.44842361751943827
 purpose: []
