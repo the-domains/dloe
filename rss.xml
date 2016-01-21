@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[dloe]]></title>
         <description><![CDATA[dloe]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dloe/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jan 2016 05:11:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 21 Jan 2016 05:18:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dloe/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Flo Instinctively. </p>]]></description>
-            <link>undefined2705bc77-3b82-4d28-ab27-4108d753f1e2/index.html</link>
+            <title><![CDATA[Flo Instinctively. ]]></title>
+            <description><![CDATA[<article><h1>Flo Instinctively. </h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f3859a63155f624cb2e630009dd7fb923e08103e.png"></article>]]></description>
+            <link>https://thegrid.ai/dloe/2705bc77-3b82-4d28-ab27-4108d753f1e2/index.html</link>
             <guid isPermaLink="false">2705bc77-3b82-4d28-ab27-4108d753f1e2</guid>
-            <pubDate>Thu, 21 Jan 2016 05:11:51 GMT</pubDate>
+            <pubDate>Thu, 21 Jan 2016 05:18:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
